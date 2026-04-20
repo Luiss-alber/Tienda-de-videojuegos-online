@@ -18,9 +18,9 @@ Generar insights para la toma de decisiones
 
 El dataset contiene información sobre:
 
-Nombre del videojuego
-Plataforma
-Año de lanzamiento
+- Nombre del videojuego
+- Plataforma
+- Año de lanzamiento
 Género
 Ventas globales y por región (NA, EU, JP, Other)
 Puntuación de críticos profesionales 
