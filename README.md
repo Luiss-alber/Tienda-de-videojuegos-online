@@ -3,10 +3,10 @@ Este proyecto consiste en un Análisis Exploratorio de Datos (EDA) sobre la indu
 
 A través del análisis, se busca responder preguntas como:
 
-¿Qué géneros son más populares?
-¿Qué plataformas dominan el mercado?
-¿Cómo han evolucionado las ventas a lo largo del tiempo?
-¿Existen diferencias entre regiones?
+- ¿Qué géneros son más populares?
+- ¿Qué plataformas dominan el mercado?
+- ¿Cómo han evolucionado las ventas a lo largo del tiempo?
+- ¿Existen diferencias entre regiones?
 
 ## Objetivos
 Analizar el comportamiento del mercado de videojuegos
@@ -21,9 +21,9 @@ El dataset contiene información sobre:
 - Nombre del videojuego
 - Plataforma
 - Año de lanzamiento
-Género
-Ventas globales y por región (NA, EU, JP, Other)
-Puntuación de críticos profesionales 
-Puntuación de usuarios 
-Clasificación
+- Género
+- Ventas globales y por región (NA, EU, JP, Other)
+- Puntuación de críticos profesionales 
+- Puntuación de usuarios 
+- Clasificación
 
